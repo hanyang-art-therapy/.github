@@ -37,6 +37,41 @@
 
 <br /><br />
 
+
+## 🎨 프로젝트 역할분담
+
+### 🔵 FE
+**김이지**
+**유희태**
+**임다은**
+
+### 🔴 BE
+**문민아**
+- AWS 배포<br />
+- SPRING SECURITY 인증 / 인가 <br />
+- 회원 (회원가입, 로그인, 로그아웃, ID/이메일/학번 중복 검사)<br />
+- 마이페이지 (회원 논리적 탈퇴, 비밀번호 재설정 이메일 인증)<br />
+- 이메일 인증 / 비밀번호 찾기 / 비밀번호 재설정<br />
+- 관리자 페이지 (작가 CRUD)<br />
+- 댓글 정지 API<br />
+
+**김경아**
+- 전시회 & 작품 전체조회, 상세조회<br />
+- 댓글 (조회, 작성, 수정, 삭제)<br />
+- 공지사항 게시판 (조회, 등록, 수정, 삭제)<br />
+- 관리자 페이지 (회원 CRUD)<br />
+
+**김여원**
+- 첨부파일 업로드 및 삭제<br />
+- 마이페이지 (내 정보, 내 글, 내 댓글 조회, 수정, 삭제)
+- 관리자 페이지 (전시회 CRUD, 작품 CRUD, 교수진 CRUD)<br/>
+
+<br />
+
+🔗[기능 상세 설명 보기](https://solid-player-db7.notion.site/20c235cffd3f80ea9fc1f4146761c1db?source=copy_link)<br/>
+🔗[트러블 슈팅](https://www.notion.so/222235cffd3f805a82d6f5dc92ba3d67?v=222235cffd3f8091b706000c29cff509)
+<br/><br/>
+
 ## 🛠️️ 사용기술 및 개발환경
 
 **Development**
@@ -54,17 +89,44 @@
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img src="https://img.shields.io/badge/Google Search Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
 <img src="https://img.shields.io/badge/playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/Java_17-007396?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat" />
+<br />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
 </p>
 
 **Environment**
 
 <p>
-<img src="https://img.shields.io/badge/AWS-141f2e?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logoColor=white"/>
+
+<br />
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+</p>
+
+**Database**
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+**Dev Tools**
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 **Cowork Tools**
